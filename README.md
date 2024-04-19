@@ -10,7 +10,8 @@ This is a simple Flutter project demonstrating the MVVM (Model-View-ViewModel) a
 
 ## Screenshots
 
-Include screenshots or GIFs here to showcase your app's UI.
+![App Screenshot](https://github.com/jamshidhusenov/flutter_mvvm.git/screenshots/screen.png)
+
 
 ## Installation
 
